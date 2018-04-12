@@ -23,4 +23,11 @@ Class Helper{
 	
 }
 
+
+class Teseb{
+
+	public  function test(){
+	
+	}
+}
 ?>
