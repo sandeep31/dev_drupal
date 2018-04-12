@@ -26,7 +26,7 @@ Class Helper{
 
 class Teseb{
 
-	public  function test(){
+	public  function test12(){
 	
 	}
 }
