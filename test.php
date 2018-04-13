@@ -9,6 +9,8 @@ Class Helper{
   }	
 
   public function getPost($param){
+return  $_POST;
+die();
 	return isset($_POST[$param]) && !empty($_POST[$param])? $_POST[$param]:NULL;	
   }	
 
